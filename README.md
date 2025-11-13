@@ -83,5 +83,5 @@ Big-Data-Analytics-Lab/
    pip install pyspark
 ✍️ Author
 
-[Ali Haider]
-Big Data Analytics Lab — [Institute of Management Sciences Peshawar]
+Ali Haider
+Big Data Analytics Lab — Institute of Management Sciences Peshawar
