@@ -48,19 +48,27 @@ By the end of this lab series, I aim to:
 ## 📂 Repository Structure
 
 Big-Data-Analytics-Lab/
+
 │
 ├── Lab01_Introduction_to_PySpark/
+
 │ └── lab01.ipynb
 
 │
 ├── Lab02_RDD_Operations/
+
 │ └── lab02.ipynb
 │
+
 ├── Lab03_DataFrames_and_SQL/
+
 │ └── lab03.ipynb
 │
+
 ├── datasets/
+
 │ └── (Sample CSV or JSON files)
+
 │
 └── README.md
 
